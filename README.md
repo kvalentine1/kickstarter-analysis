@@ -11,12 +11,12 @@ The data set used for this analysis is a compilation of over 4,000 Kickstarter c
 ### Analysis of Outcomes Based on Launch Date
 The data very clearly shows that theater-based Kickstarter campaigns are very successful when started in the late spring. Campaigns that began in May prove to be the most successful with 111 campaigns being successful out of 166 total theater campaigns in May. The successfulness of the theater campaigns drops in the latter half of the year. While theater Kickstarters always have more successful campaigns than failed campaigns throughout the year, at the end of the year in December, the difference between successful and failed campaigns is 2 campaigns. Our client has the best chance of a successful Kickstarter campaign if she launches in May.
 
-![image](Theater_Outcomes_vs_Launch.png)
+<img src = "Kickstarter Resources/Theater_Outcomes_vs_Launch.png">
 
 ### Analysis of Outcomes Based on Goals
 Theater-Plays based Kickstarter campaigns overwhelmingly have goals under $15,000.00. The most common goal range is $1,000.00 to $4,999.00 which encompasses 534 out of the 1043 plays campaigns. This goal range proves to be very successful with 73% of the campaigns in this range meeting their goals. 
 
-![image](Outcomes_vs_Goals.png)
+<img src = "Kickstarter Resources/Outcomes_vs_Goals.png">
 
 ### Challenges and Difficulties Encountered
 The difficulties I encountered with the data set was not anything to do with the analysis itself. I felt that the data was very easy to work with. Due to how large the data set is and the multiple sheets of analysis, I did at one point have trouble with uploading the excel file to Git Hub. The file size was almost 50mb and was 27mb when compressed. Something was making my file very much enlarged. I copied and pasted my work into a new excel file and it was a manageable size. 
